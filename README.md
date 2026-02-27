@@ -1,6 +1,10 @@
 # IS-107
 BUSINESS INTELLIGENCE
 
+## GOOGLE SLIDE DRIVE LINK
+https://drive.google.com/file/d/11JZYpOWAAm0oAestQr9o9XLBYQLb6krz/view?usp=drive_link
+
+
  PART 1 Step 3: Verify Data in Data View
  QUESTION #1 Are all columns visible?  
            ANSWER: Yes columns are all visisble.
